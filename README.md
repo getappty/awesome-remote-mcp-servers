@@ -3247,7 +3247,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Assess job responsibilities; return free findings, report quotes, and private human review links.
 - [Appty](https://getappty.com/developers) `https://getappty.com/api/mcp`
   [![Appty MCP connector](https://glama.ai/mcp/connectors/com.getappty/appty/badges/score.svg)](https://glama.ai/mcp/connectors/com.getappty/appty)
-  🔑 - Find open slots and booking links on any appty link; providers manage bookings and invoices by sign-in or API key.
+  🔓 - Find open slots and booking links on any appty link; providers manage bookings and invoices by sign-in or API key.
 - [Atako](https://docs.atako.ai/developers/mcp/overview) `https://api.atako.ai/mcp`
   [![Atako MCP connector](https://glama.ai/mcp/connectors/ai.atako/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.atako/mcp)
   🔑 - Run your company's AI agents: chat, projects and kanban, files, integrations, email and webhooks.
